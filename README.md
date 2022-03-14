@@ -7,7 +7,7 @@ My main interests are:
 + Computer architecture & compilers
 + Software-hardware codesign & domain specific hardware
 + Distributed systems & cloud computing
-+ Algebra & Number theory & Cryptography
++ Algebra & number theory & cryptography
 + Theoretical computer science
 
 I haven't yet had much experience with these areas. I am currently learning about operating systems and computer architecture, and I am trying to get involved in some basic research in computer systems.
