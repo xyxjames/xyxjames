@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello.
+
+I am a student majoring in **computer science** at Peking University, China. I also take a double degree in **pure mathematics**.
+
+My main interests are:
+
++ Computer architecture & compilers
++ Software-hardware codesign & domain specific hardware
++ Distributed systems & cloud computing
++ Algebra & Number theory & Cryptography
++ Theoretical computer science
+
+I haven't yet had much experience with these areas. I am currently learning about operating systems and computer architecture, and I am trying to get involved in some basic research in computer systems.
 
 <!--
 **xy-xiang/xy-xiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
