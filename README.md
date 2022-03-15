@@ -12,6 +12,8 @@ My main interests are:
 
 I haven't yet had much experience with these areas. I am currently learning about operating systems and computer architecture, and I am trying to get involved in some basic research in computer systems.
 
+I am very much willing to have open discussions with anyone who is also interested in computer systems research or computer science in general. If you are interested, feel free to contact me at *xyxiang at stu dot pku dot edu dot cn*.
+
 <!--
 **xy-xiang/xy-xiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
