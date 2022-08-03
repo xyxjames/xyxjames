@@ -1,4 +1,4 @@
-Computer science student @ PKU
+CS junior @ PKU
 
 <!--
 **xy-xiang/xy-xiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
